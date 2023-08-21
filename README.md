@@ -2,7 +2,9 @@
 
 ## Node.js
 
-The project is developed and tested using Node version 16.19.0. It is recommended to use this version or one that's close to it. To check your current Node version, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is recommended to use node version of 16.19.0
+To check your current Node version, you can run:
 
 ### `node -v`
 
@@ -13,11 +15,6 @@ If you need to switch Node versions, consider using nvm (Node Version Manager).
 After ensuring you have the correct version of Node.js, install the required npm packages by running:
 
 ### `yarn`
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It is recommended to use node version of 16.19.0
 
 ## Available Scripts
 
